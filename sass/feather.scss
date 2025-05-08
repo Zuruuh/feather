@@ -6,17 +6,17 @@
 |_| \___|\__,_|\__|_| |_|\___|_|
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@1,200..900;1,700&family=Source+Serif+4:opsz,ital,wght@0,200..900;1,700&display=swap");
 @import "colors";
+@import "fonts";
 
 // Variables and Mixins
 $break-small: 500px; // at what point the site becomes "mobile"
 
 $base-font-size: 18px;
 
-$font-body: "Source Serif 4", serif;
+$font-body: "Source Serif Pro", serif;
 $font-title: "Inter", sans-serif;
-$font-code: "Lucida Console", Monaco, monospace;
+$font-code: "Source Code Pro", Monaco, monospace;
 
 // ------------------------------------------------ //
 //					  Animations 					//
